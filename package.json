@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/iure-nobis-veritatis-minus",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -715,5 +715,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/iure-nobis-veritatis-minus/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
